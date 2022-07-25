@@ -67,3 +67,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gotest.tools/v3 v3.1.0 // indirect
 )
+
+replace github.com/tigrisdata/tigris-client-go => ../tigris-client-go
